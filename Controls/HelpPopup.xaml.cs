@@ -4,10 +4,10 @@ namespace RestaurantPOS.Controls;
 
 public partial class HelpPopup : Popup
 {
-    public const string Email = "jonatandb@gmail.com";
+    public const string Email = "FMMSRestaurant@gmail.com";
 
     private const string Subject = "Restaurant POS";
-    private const string Website = "https://jonatandb.github.io/";
+    private const string Website = "https://github.com/Mohammed-SQ/FMMSRestaurant";
 
     public HelpPopup()
     {

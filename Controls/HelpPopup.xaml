@@ -112,7 +112,7 @@
                     FontAttributes="Bold"
                     FontSize="15"
                     HorizontalOptions="Start"
-                    Text="Jonatandb"
+                    Text="fmms team"
                     TextColor="Yellow"
                     TextDecorations="Underline"
                     ToolTipProperties.Text="Click to visit my website"
